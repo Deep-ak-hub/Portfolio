@@ -197,7 +197,7 @@ export default function ScrollyCanvas() {
         <div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-[#121212] transition-opacity duration-700">
           <div className="flex flex-col items-center max-w-xs w-full px-6">
             <h2 className="text-xs uppercase tracking-[0.3em] text-white/40 mb-8 animate-pulse font-medium">
-              PORTFOLIO // CREATIVE DEV
+              Warm Welcome to You
             </h2>
             <div className="relative w-full h-[2px] bg-white/10 overflow-hidden rounded-full mb-4">
               <div
