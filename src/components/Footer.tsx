@@ -22,14 +22,14 @@ export default function Footer() {
           <div className="flex flex-col justify-between">
             <div>
               <span className="text-xs font-mono text-indigo-400 tracking-[0.3em] uppercase block mb-6">
-                Let's Connect
+                Let&apos;s Connect
               </span>
               <h2 className="text-4xl md:text-6xl font-extrabold tracking-tight text-white mb-8 leading-tight">
                 {"BUILD AMBITIOUS"}<br />
                 WEB SOLUTIONS.
               </h2>
               <p className="text-neutral-400 font-light max-w-md leading-relaxed mb-8">
-                Always interested in production challenges, scalable architecture, and projects pushing MERN stack capabilities. Let's collaborate on something impactful.
+                Always interested in production challenges, scalable architecture, and projects pushing MERN stack capabilities. Let&apos;s collaborate on something impactful.
               </p>
             </div>
             

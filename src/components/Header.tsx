@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { motion, useScroll, useSpring, useTransform } from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
 const GithubIcon = ({ size = 16 }: { size?: number }) => (
   <svg
     viewBox="0 0 24 24"

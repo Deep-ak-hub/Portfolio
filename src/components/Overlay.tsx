@@ -95,7 +95,7 @@ export default function Overlay({ scrollProgress }: OverlayProps) {
               Production-grade MERN stack expertise — React/TypeScript frontends, Node.js/Express APIs, MongoDB & Redis backends.
             </p>
             <p className="text-neutral-500 text-xs md:text-sm leading-relaxed font-light">
-              SOLID principles, MVC architecture, and middleware layering aren't trends — they're foundational engineering practices.
+              SOLID principles, MVC architecture, and middleware layering aren&apos;t trends — they&apos;re foundational engineering practices.
             </p>
           </motion.div>
         </motion.div>
